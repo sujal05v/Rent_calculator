@@ -1,6 +1,7 @@
 ## 🏠 Rent Calculator
 
-A simple Python project built while learning programming concepts, designed to calculate how much each person needs to pay when sharing living expenses in a flat.
+This is a simple Python project I built while learning Python from YouTube.
+It calculates how much each person has to pay when sharing rent and other expenses in a flat.
 
 ## 💡 Overview
 
